@@ -1,16 +1,22 @@
+# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> Fazax22
+
+- I'm Faza OR Rifqi 
+- I'm just wanna be my self, thx.
+- I’m currently learning Web Development and other programming languages.
+- 😇
 # CATATAN ( NOTE )
 sc ini hanyalah hasil recode dari sc asli hisoka
-naze hanya menghilangkat bug, memperbagus & menyeting banyak hal
+naze  memperbagus & menyeting banyak hal
 agar tidak terjadi error
 
-#NazeMD
+#RifqiMD
 Script WhatsApp Bot Multi Device
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/e661734204ce5f21b185b.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">NAZE DEV</h1>
 
@@ -77,19 +83,6 @@ Editing Number Owner & session name in [`config.js`](https://github.com/nazedev/
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
-* [`ArullOfc`](https://github.com/Warikrr)
-* [`Naze Dev`](https://github.com/nazedev)
 
 ```Thanks to all who have participated in the development of this script```
 
@@ -97,4 +90,4 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
-* [`Saweria`](https://saweria.co/naze)
+* [`Instragram`](https://intragram.com/mrifqifaza)
