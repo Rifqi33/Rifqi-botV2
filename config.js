@@ -1,10 +1,3 @@
-/**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
-*/
-
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -19,11 +12,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.owner = ['6288228085134']
+global.ownernomer = "6288228085134"
+global.premium = ['6288228085134']
+global.packname = 'Sticker  Rifqi'
+global.author = 'Rifqi'
 global.sessionName = 'nazedev'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -41,7 +34,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 500
 }
 global.thumb = fs.readFileSync('./lib/naze.png')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
